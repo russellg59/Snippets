@@ -1,0 +1,1 @@
+**Loose collectgion of useful code snippets gleaned fromt he community**
